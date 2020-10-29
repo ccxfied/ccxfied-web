@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>CCXfied</title>
+    <link href="https://ccxfied.github.io/ccxfied-web/feed.xml" rel="self" />
+    <link href="https://ccxfied.github.io/ccxfied-web" />
+    <updated>2020-10-29T20:30:43+05:30</updated>
+    <author>
+        <name>Cortex Cortexified</name>
+    </author>
+    <id>https://ccxfied.github.io/ccxfied-web</id>
+
+    <entry>
+        <title>Hello There!</title>
+        <author>
+            <name>Cortex Cortexified</name>
+        </author>
+        <link href="https://ccxfied.github.io/ccxfied-web/hello-there.html"/>
+        <id>https://ccxfied.github.io/ccxfied-web/hello-there.html</id>
+
+        <updated>2020-10-29T20:30:43+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

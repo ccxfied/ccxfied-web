@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CCXfied",
+    "description": "",
+    "home_page_url": "https://ccxfied.github.io/ccxfied-web",
+    "feed_url": "https://ccxfied.github.io/ccxfied-web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cortex Cortexified"
+    },
+    "items": [
+        {
+            "id": "https://ccxfied.github.io/ccxfied-web/hello-there.html",
+            "url": "https://ccxfied.github.io/ccxfied-web/hello-there.html",
+            "title": "Hello There!",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-29T20:30:43+05:30",
+            "date_modified": "2020-10-29T20:30:43+05:30"
+        }
+    ]
+}
